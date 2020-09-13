@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3094" started-at="2020-06-24T23:41:11 IST" finished-at="2020-06-24T23:41:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3094" started-at="2020-06-24T23:41:11 IST" finished-at="2020-06-24T23:41:14 IST">
+      <class name="restAutomation.TC01_GetRequest">
+        <test-method status="PASS" signature="GetSingleUserDetails()[pri:0, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="GetSingleUserDetails" is-config="true" duration-ms="2478" started-at="2020-06-24T23:41:11 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleUserDetails -->
+        <test-method status="PASS" signature="CheckResponseBody()[pri:0, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="CheckResponseBody" duration-ms="26" started-at="2020-06-24T23:41:14 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckResponseBody -->
+        <test-method status="PASS" signature="Get_StatusCode()[pri:1, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="Get_StatusCode" duration-ms="1" started-at="2020-06-24T23:41:14 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_StatusCode -->
+        <test-method status="PASS" signature="Get_ContentType()[pri:2, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="Get_ContentType" duration-ms="1" started-at="2020-06-24T23:41:14 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_ContentType -->
+        <test-method status="PASS" signature="ResponseLastName()[pri:3, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="ResponseLastName" duration-ms="540" started-at="2020-06-24T23:41:14 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseLastName -->
+        <test-method status="PASS" signature="ResponseFirstName()[pri:4, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="ResponseFirstName" duration-ms="13" started-at="2020-06-24T23:41:14 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseFirstName -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:restAutomation.TC01_GetRequest@15d0c81b]" name="EndTest" is-config="true" duration-ms="3" started-at="2020-06-24T23:41:14 IST" finished-at="2020-06-24T23:41:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- restAutomation.TC01_GetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
